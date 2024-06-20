@@ -6,3 +6,6 @@ Select distinct(f.product_code), p.product_name, promo_type, base_price
 from fact_events f
 join dim_products p on f.product_code = p.product_code
 Where f.base_price > 500 and f.promo_type = "BOGOF";
+
+Promo - Promotion, 
+BOGOF - Buy One Get One Free
