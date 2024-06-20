@@ -18,15 +18,15 @@ Create visualizations such as trend charts, bar graphs, and heatmaps to depict s
 Use DAX functions like SUM, AVERAGE, DIVIDE, and CALCULATE to analyze sales data and derive actionable insights.
 
 ### Key Metrics:
-Total Revenue Before Promotion
-Total Revenue After Promotion
-Total Revenue
-Incremental Revenue
-Incremental Revenue %
-Total Sold Units
-Incremental Sold Units
-Incremental Sold Units %
-Total Products
+1. Total Revenue Before Promotion
+2. Total Revenue After Promotion
+3. Total Revenue
+4. Incremental Revenue
+5. Incremental Revenue %
+6. Total Sold Units
+7. Incremental Sold Units
+8. Incremental Sold Units %
+9. Total Products
 
 ### Insights:
 1. Bengaluru has the most stores (10), followed by Chennai (8) and Hyderabad (7), while Trivandrum and Vijayawada have the fewest (2 each).
